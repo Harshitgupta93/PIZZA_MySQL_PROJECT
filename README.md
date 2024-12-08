@@ -1,2 +1,6 @@
-# PIZZA_MySQL_PROJECT
-In the Pizza Hut SQL project, I analyzed sales and operational data using a range of SQL techniques. This included joins for combining data from multiple tables, subqueries for nested data retrieval, and window functions to perform calculations across specific data partitions, enhancing insights into sales trends and customer behavior.
+# Pizza Sales Analysis in Tableau
+1. Designed interactive dashboards and KPIs to analyze sales trends, customer preferences, and product performance   
+for a pizza franchise.    
+2. Used calculated fields and parameters to customize views and filter data dynamically. 
+3. Improved business strategy by uncovering actionable insights, such as increasing promotional efforts for high-demand 
+time slots and popular menu items. 
